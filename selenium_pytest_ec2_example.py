@@ -1,5 +1,5 @@
 ''' Just a simple example of Selenium tests.
-To run: pytest [--headed] selenium_pytest_ec2_example.py'''
+To run pytest [--headed] selenium_pytest_ec2_example.py'''
 from selenium import webdriver
 import pytest
 
